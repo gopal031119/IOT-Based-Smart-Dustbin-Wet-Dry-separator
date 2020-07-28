@@ -1,0 +1,18 @@
+Description:------
+Ultrasonic sensor Sensors measure distances by using ultrasonic waves. The sensor emits an ultrasonic wave and receives the reflected wave back from the target.
+IR Sensor emits in order to sense some aspects of the surroundings.
+Moisture Sensor measures the volumetric water content in the soil. ... Reflected microwave radiation is affected by the soil moisture and is used for remote sensing hydrology and agriculture.
+DC motor which is connected to the digital pins of Arduino
+We are using the serial monitor for the display
+
+
+HARDWARE REQUIREMENTS:-----
+Arduino Uno
+Ultrasonic Sensor
+IR Sensor
+Moister Sensor
+Dc Motor
+
+
+SOFTWARE REQUIREMENTS:------        
+Arduino IDE
