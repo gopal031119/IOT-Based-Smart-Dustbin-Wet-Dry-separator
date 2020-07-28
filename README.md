@@ -1,5 +1,4 @@
 # IOT-Based-Smart-Dustbin-Wet-Dry-separator
-IOT based Smart dustbin used to separate dry and wet waste
 ABSTRACT-----
 The Internet of Things (IoT), as expected infrastructure for the envisioned concept of Smart City, brings new possibilities for the city management. IoT vision introduces promising and economical solutions for massive data collection and its analysis which can be applied in many domains and so make them operate more efficiently. Normally there is one of the most challenging issues - municipal waste-collection within the Smart City. To optimize the logistic procedure of waste collection. The presented solution provides a calculation of more efficient garbage-truck routes. As an output, we provide a set of simulations focused on the mentioned area. If the dustbin it fills we get some alert via the Buzzer also send the SMS to an authorized person in a particular time they didn’t response we will intimate to the higher authorized persons.
 
